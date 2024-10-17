@@ -3,6 +3,8 @@
 
 <img src="https://i.postimg.cc/d0Wt78nk/friday-nico.gif" width="500px">
 
+[![friday-nico.gif](https://i.postimg.cc/d0Wt78nk/friday-nico.gif)](https://postimg.cc/FfLQ8kMN)
+
 这里会将分享一些自己整合改进的AI项目，主要是comfyui的工作流一些的，后边会加油更新的。如果您有一些其他问题，您也可以在Issues中留言，Niko都会尽力帮您的。
 
 ### 💖 您的支持将用于：
