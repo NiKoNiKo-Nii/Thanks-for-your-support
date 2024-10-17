@@ -13,4 +13,4 @@
 
 谢谢金主爸爸的支持，您可以在小红书上看到Niko的进步与成长哦，比如柔韧性越来越好，舞姿越来越专业，nikoniko~~ ٩(◕‿◕｡)۶
 
-<img src="https://i.postimg.cc/hjbsbtzd/image.jpg" width="500px">
+<img src="https://i.postimg.cc/g28Z6B6w/image.jpg" width="500px">
