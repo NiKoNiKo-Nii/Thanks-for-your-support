@@ -15,4 +15,4 @@
 
 谢谢金主爸爸的支持，nikoniko~~ ٩(◕‿◕｡)۶
 
-![img](https://github.com/NiKoNiKo-Nii/Thanks-for-your-support/blob/main/file/%E6%94%B6%E6%AC%BE%E7%A0%81.png =600x)
+<img src="https://github.com/NiKoNiKo-Nii/Thanks-for-your-support/blob/main/file/%E6%94%B6%E6%AC%BE%E7%A0%81.png" width="300px">
