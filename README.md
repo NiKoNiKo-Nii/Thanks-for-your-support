@@ -10,6 +10,6 @@
 - 💃 支付舞蹈课学费（一节课就要 ¥100，真的超贵 😭）
 - 🍽️ **好好吃饭，积极生活！**
 
-谢谢金主爸爸的支持，您可以在小红书上看到我的进步与成长哦，nikoniko~~ ٩(◕‿◕｡)۶
+谢谢金主爸爸的支持，您可以在小红书上看到我的进步与成长哦，比如柔韧性越来越好，舞姿越来越专业，nikoniko~~ ٩(◕‿◕｡)۶
 
 <img src="https://github.com/NiKoNiKo-Nii/Thanks-for-your-support/blob/main/file/%E6%94%B6%E6%AC%BE%E7%A0%81.png" width="500px">
