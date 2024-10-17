@@ -1,5 +1,5 @@
 # Thanks-for-your-support
-打赏入口
+支持入口
 
 
 这个项目库将分享一些自己整合改进的AI项目，包括comfyui的工作流一些的，后边会持续更新。
