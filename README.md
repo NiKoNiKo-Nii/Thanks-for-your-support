@@ -24,4 +24,4 @@
 
 谢谢金主爸爸的支持，nikoniko~~ ٩(◕‿◕｡)۶
 
-![img]https://github.com/NiKoNiKo-Nii/Thanks-for-your-support/blob/main/file/friday-nico.gif
+![img](https://github.com/NiKoNiKo-Nii/Thanks-for-your-support/blob/main/file/friday-nico.gif)
